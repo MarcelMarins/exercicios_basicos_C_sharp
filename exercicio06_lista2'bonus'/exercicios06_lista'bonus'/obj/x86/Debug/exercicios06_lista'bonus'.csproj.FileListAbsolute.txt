@@ -1,0 +1,27 @@
+E:\TO C SONO\ETEC!!!\2° MODULO\DS (DESENVOLVIMENTO DE SOFTWARES)\EXERCICIOS C#\EXERCICIOS LISTA 2 'bonus'\exercicios06_lista'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TO C SONO\ETEC!!!\2° MODULO\DS (DESENVOLVIMENTO DE SOFTWARES)\EXERCICIOS C#\EXERCICIOS LISTA 2 'bonus'\exercicios06_lista'bonus'\exercicios06_lista'bonus'\bin\Debug\exercicios06_lista'bonus'.exe
+E:\TO C SONO\ETEC!!!\2° MODULO\DS (DESENVOLVIMENTO DE SOFTWARES)\EXERCICIOS C#\EXERCICIOS LISTA 2 'bonus'\exercicios06_lista'bonus'\exercicios06_lista'bonus'\bin\Debug\exercicios06_lista'bonus'.pdb
+E:\TO C SONO\ETEC!!!\2° MODULO\DS (DESENVOLVIMENTO DE SOFTWARES)\EXERCICIOS C#\EXERCICIOS LISTA 2 'bonus'\exercicios06_lista'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.exe
+E:\TO C SONO\ETEC!!!\2° MODULO\DS (DESENVOLVIMENTO DE SOFTWARES)\EXERCICIOS C#\EXERCICIOS LISTA 2 'bonus'\exercicios06_lista'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.pdb
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\exercicios06_lista'bonus'.exe
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\exercicios06_lista'bonus'.pdb
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\mscorlib.dll
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\sortkey.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\sorttbls.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\big5.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\bopomofo.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\ksc.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\prc.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\prcp.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\xjis.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\normidna.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\normnfc.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\normnfd.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\normnfkc.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\bin\Debug\normnfkd.nlp
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.csproj.CopyComplete
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.exe
+C:\Users\marce\Desktop\Exercicios de C#\exercicio06_lista2'bonus'\exercicios06_lista'bonus'\obj\x86\Debug\exercicios06_lista'bonus'.pdb

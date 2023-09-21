@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.0.5777
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio05_lista2'bonus'", "exercicio05_lista2'bonus'\exercicio05_lista2'bonus'.csproj", "{D5FEE9C5-812F-470F-9F8F-254032001688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FEE9C5-812F-470F-9F8F-254032001688}.Debug|x86.Build.0 = Debug|x86
+		{D5FEE9C5-812F-470F-9F8F-254032001688}.Debug|x86.ActiveCfg = Debug|x86
+		{D5FEE9C5-812F-470F-9F8F-254032001688}.Release|x86.Build.0 = Release|x86
+		{D5FEE9C5-812F-470F-9F8F-254032001688}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
